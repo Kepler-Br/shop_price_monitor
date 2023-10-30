@@ -1,0 +1,8 @@
+app:
+  retrievers:
+    - retriever: YANDEX
+      name: NAME
+      url: http://localhost
+    - retriever: NOOP
+      name: NAME
+      url: http://localhost
